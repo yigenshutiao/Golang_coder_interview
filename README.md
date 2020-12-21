@@ -395,3 +395,7 @@
 
 [go_question](https://github.com/qcrao/Go-Questions)
 
+[raft_rule](http://thesecretlivesofdata.com/raft/)
+
+
+
