@@ -335,7 +335,6 @@
 - [ ] golang 的map 插入顺序和输出顺序是一样的吗？随机输出
 - [ ] 实现一个并发模型。生产者消费者
 - [ ] select和epoll的区别
-- [ ] 
 
 
 
@@ -395,6 +394,24 @@
 ```
 <a style="color: #ff0000;" href="/haibao/gzh.jpg" target="_blank" rel="noopener noreferrer" data-fancybox="images">https://pan.baidu.com/s/UmfoPWii1578AOk2KvSnrjI</a>
 ```
+
+
+
+
+
+### 问题
+
+在并发条件下有没有问题
+
+在分布式条件下有没有问题
+
+网络挂了怎么办
+
+机器挂了怎么办
+
+DB挂了怎么办
+
+
 
 
 
