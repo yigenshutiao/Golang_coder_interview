@@ -392,10 +392,10 @@
 - [ ] 如何理解网络模型
 - [ ] tcp的send函数返回一定代表数据从网卡发送出去了么？我说只是发送到了内核缓冲区。又问这个缓冲区也是属于该进程的么？回答是。又继续问，一个数据接收过程发生了几次用户态到内核态的拷贝？
 
-##### 2.DSN
+##### 2.DNS
 
 - [ ] 说说CDN的架构，缓存的实现, 用户的访问流程，调度是怎么选择机房的
-- [ ] DSN 查询过程,递归查询和迭代查询的区别
+- [ ] DNS 查询过程,递归查询和迭代查询的区别
 
 ##### 3.HTTP
 
@@ -540,11 +540,6 @@
 #### other
 
 - [ ] 对比 mysql redis http 连接池的实现
-- [ ] 
-
-```
-<a style="color: #ff0000;" href="/haibao/gzh.jpg" target="_blank" rel="noopener noreferrer" data-fancybox="images">https://pan.baidu.com/s/UmfoPWii1578AOk2KvSnrjI</a>
-```
 
 
 
